@@ -57,15 +57,15 @@ This project utilizes Amazon Web Services (AWS). You'll find instructions for us
 1. Clone Project Code
 
    ```
-   git clone https://github.com/AndyNguyen1010/Udacity_project3.git
+   git clone https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3
    ```
 
 ### Project Structure
 
-1. [.bin](https://github.com/AndyNguyen1010/Udacity_project3/tree/main/.bin): Bash file to complete project
-2. [db](https://github.com/AndyNguyen1010/Udacity_project3/tree/main/db): Scripts to seed data
-3. [deployment](https://github.com/AndyNguyen1010/Udacity_project3/tree/main/deployment): Kubernetes yaml files
-4. [screenshots](https://github.com/AndyNguyen1010/Udacity_project3/tree/main/ScreenShots): Screenshots
+1. [.bin](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/.bin): Bash file to complete project
+2. [db](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/db): Scripts to seed data
+3. [deployment](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/deployment): Kubernetes yaml files
+4. [screenshots](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/ScreenShots): Screenshots
 
 ### How to run
 
