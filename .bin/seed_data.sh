@@ -1,7 +1,7 @@
 set -e
 
 LOCAL_PORT=5432
-TYPE_NAME=udacity-yen110svc-postgresql
+TYPE_NAME=udacity-tuyennt30svc-postgresql
 REMOTE_PORT=5432
 
 POSTGRES_PASSWORD=$(kubectl get secret --namespace default $TYPE_NAME -o jsonpath="{.data.postgres-password}" | base64 -d)
