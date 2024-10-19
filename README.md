@@ -5,6 +5,11 @@
 
 Project: Coworking Space Service
 The Coworking Space Service is a set of APIs that enables users to request one-time tokens and administrators to authorize access to a coworking space.
+### URL:
+- [ReadinessCheck](http://a4be6b4b1a57348e9a05a9fed1f95b67-2034889690.us-east-1.elb.amazonaws.com:5153/readiness_check)
+- [HealthCheck](http://a4be6b4b1a57348e9a05a9fed1f95b67-2034889690.us-east-1.elb.amazonaws.com:5153/health_check)
+- [UserVisits](http://a4be6b4b1a57348e9a05a9fed1f95b67-2034889690.us-east-1.elb.amazonaws.com:5153/api/reports/user_visits)
+- [DailyUsage](http://a4be6b4b1a57348e9a05a9fed1f95b67-2034889690.us-east-1.elb.amazonaws.com:5153/api/reports/daily_usage)
 
 This service follows a microservice pattern and the APIs are split into distinct services that can be deployed and managed independently of one another.
 
