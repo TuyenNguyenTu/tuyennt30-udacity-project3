@@ -118,20 +118,20 @@ After this is configured, you can navigate to CloudWatch in the AWS console to a
    kubectl get svc
    ```
 
-<img src="./ScreenShots/kubectl_get_public_backend_load_balancer_externalIP.png">
+<img src="./ScreenShot/kubectl_get_public_backend_load_balancer_externalIP.png">
 
 ### Result
 
 1. Web API
 
-<img src="./ScreenShots/test_api_loadbalancer_externalIP.png">
+<img src="./ScreenShot/08_test_api_loadbalancer_externalIP.png">
 
-<img src="./ScreenShots/test_api_loadbalancer_externalIP_user_visits.png">
+<img src="./ScreenShot/09_test_api_loadbalancer_externalIP_user_visits.png">
 
 2. CloudWatch
 
-<img src="./ScreenShots/Log_CloudWatch.png">
+<img src="./ScreenShot/10_LogCloudWatch.png">
 
 3. Kubectl logs pod
 
-<img src="./ScreenShots/EKS_log_pod_result_data.png">
+<img src="./ScreenShot/kubectl_log_pod_backend.png">
