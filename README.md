@@ -70,7 +70,7 @@ This project utilizes Amazon Web Services (AWS). You'll find instructions for us
 1. [.bin](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/.bin): Bash file to complete project
 2. [db](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/db): Scripts to seed data
 3. [deployment](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/deployment): Kubernetes yaml files
-4. [screenshots](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/ScreenShots): Screenshots
+4. [screenshot](https://github.com/TuyenNguyenTu/tuyennt30-udacity-project3/tree/main/ScreenShot): Screenshot
 
 ### How to run
 
